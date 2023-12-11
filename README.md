@@ -18,3 +18,6 @@ To run this project, you need to have the following dependencies installed:
 
 Download the dataset (New York City Taxi Fare Prediction.csv) and place it in the root directory.
 Open the Jupyter Notebook and try out the codes in the repository.
+
+refer the below link for outputs:
+https://drive.google.com/drive/folders/1xuQxdkL-3c679zUUFgIpgJYuZvy7xvXP
