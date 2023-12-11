@@ -12,6 +12,6 @@ To run this project, you need to have the following dependencies installed:
     Seaborn
     Folium
     Haversine
-
+    
 Download the dataset (New York City Taxi Fare Prediction.csv) and place it in the root directory.
 Open the Jupyter Notebook and try out the codes in the repository.
