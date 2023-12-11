@@ -38,7 +38,7 @@ pd.DataFrame(dataset.isnull().sum(), columns=["Train Null Count"])
 # Convert pickup_datetime to datetime format
 dataset['pickup_datetime'] = pd.to_datetime(dataset['pickup_datetime'])
 
-# Drop the 'key' column if it's just an index
+# Drop the 'key' column since it's just an index
 dataset = dataset.drop(columns=['key'])
 
 # Verify coordinate ranges (for NYC)
